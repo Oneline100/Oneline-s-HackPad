@@ -42,11 +42,10 @@ Custom Parts
 > [!IMPORTANT]
 > DRC was run and all tests have been passed! Yay!
 
-| Schematic  | PCB |
-| ------------- | ------------- |
-|  <img width="974" height="643" alt="{43D8BD11-BAAD-4A10-A70D-C032815F9AB0}" src="https://github.com/user-attachments/assets/be0a52a8-0bc7-4c6c-bebc-8875f637c668" />| <img width="870" height="586" alt="{8FDC4C57-B847-4401-8664-15C793F48F9A}" src="https://github.com/user-attachments/assets/ac13fbcb-8ae3-49d3-9bfc-5ab2c79105cc" />
+| Schematic  | PCB | 3D Model
+| ------------- | ------------- | ------------- |
+|<img width="1070" height="758" alt="{B72BF1BE-3581-4B01-B1A0-090EB5490931}" src="https://github.com/user-attachments/assets/e5079a5f-18c0-4a94-b7fd-1e32930111cc" />|<img width="1070" height="758" alt="{8346E6D1-9D81-4E28-AE12-150D5CCDEE44}" src="https://github.com/user-attachments/assets/b56b6ed1-55be-4415-809e-46b2af7c200f" />|<img width="1068" height="601" alt="hackpad" src="https://github.com/user-attachments/assets/40a456d8-15ea-499c-91a7-4a12439a3c8f" />|
 
-## Firmware
 > [!WARNING]
 > Code is untested and may need more edits!
 
