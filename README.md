@@ -27,7 +27,7 @@ Tools:
 
 Custom Parts
 - 1x Back Case
-- 1x Front Cas3e
+- 1x Front Case
 - 1x PCB
 
 ## CAD Model
