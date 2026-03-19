@@ -1,7 +1,7 @@
 # Oneline's Hackpad
 This a Hackpad that I have been working on for sometime for studying, video editing, gaming and voice chat. 
 
-Renders:
+## Renders:
 <img width="1520" height="770" alt="f99d0113-4bce-4061-9304-6c1de86bcdb5" src="https://github.com/user-attachments/assets/9a97245d-ea52-46f1-8425-adfa00bc208b" />
 <img width="1520" height="770" alt="Final_2026-Jan-10_11-23-39PM-000_CustomizedView1600068612" src="https://github.com/user-attachments/assets/b7e77d75-537f-4c24-9e3e-d19ff32e7654" />
 
