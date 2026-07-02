@@ -46,8 +46,8 @@ Custom Parts
 | ------------- | ------------- | ------------- |
 |<img width="1070" height="758" alt="{B72BF1BE-3581-4B01-B1A0-090EB5490931}" src="https://github.com/user-attachments/assets/e5079a5f-18c0-4a94-b7fd-1e32930111cc" />|<img width="1070" height="758" alt="{8346E6D1-9D81-4E28-AE12-150D5CCDEE44}" src="https://github.com/user-attachments/assets/b56b6ed1-55be-4415-809e-46b2af7c200f" />|<img width="1068" height="601" alt="hackpad" src="https://github.com/user-attachments/assets/40a456d8-15ea-499c-91a7-4a12439a3c8f" />|
 
-> [!WARNING]
-> Code is untested and may need more edits!
+> [!NOTE]
+> Code now works and its goods!
 
 The firmware uses the code provied and some other feautres and libaries to get this working. Controls the keys, leds, and screen. 
 
